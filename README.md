@@ -1,10 +1,12 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=190&section=header&text=Hey,%20I'm%20Eddie&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Data%20Engineering%20%C2%B7%20Software%20Engineering&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=14B8A6&center=true&vCenter=true&width=640&lines=AI%2FML+%C2%B7+Data+Engineering+%C2%B7+Software+Engineering;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+GCP+%C2%B7+AWS;Building+ML+systems%2C+data+pipelines+%26+the+software+around+them)](https://git.io/typing-svg)
+# Hey, I'm Eddie 👋
+
+### AI/ML Engineer · Data Engineering · Software Engineering
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=14B8A6&center=true&vCenter=true&width=650&lines=Machine+Learning+%C2%B7+LLM+Apps+%C2%B7+Data+Pipelines+%C2%B7+Cloud;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+GCP+%C2%B7+AWS;Turning+models+into+software+people+actually+use" alt="Typing SVG" />
+
+<br>
 
 <a href="https://www.linkedin.com/in/edward-moon-972007237"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sungjune.moon@gmail.com"><img src="https://img.shields.io/badge/sungjune.moon@gmail.com-0F766E?style=flat-square&logo=gmail&logoColor=white" /></a>
