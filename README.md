@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer · Data Engineering · Software Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=14B8A6&center=true&vCenter=true&width=650&lines=Machine+Learning+%C2%B7+LLM+Apps+%C2%B7+Data+Pipelines+%C2%B7+Cloud;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+React+%C2%B7+AWS;Turning+models+into+software+people+actually+use" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=14B8A6&center=true&vCenter=true&width=650&lines=Machine+Learning+%C2%B7+LLM+Apps+%C2%B7+Data+Pipelines+%C2%B7+Cloud;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+React+%C2%B7+AWS;MSCS+%40+Stevens+%C2%B7+AWS+Certified+AI+Practitioner" alt="Typing SVG" />
 
 <br>
 
@@ -21,8 +21,6 @@
 I'm a Rutgers Computer Science graduate, now an **MSCS student at Stevens Institute of Technology** focusing on **machine learning and AI**.
 
 I like the part of ML that comes *after* the notebook: wrapping models in **APIs, CLIs, and full-stack apps** that people can actually run. Most of what I build is Python, with React and TypeScript when it needs a face.
-
-I've also spent a lot of time teaching code, as a tutor at Rutgers' CS help center and as a Python instructor. That's made me much better at explaining, and documenting, what I build.
 
 > 🎯 **Looking for:** internships and roles in **AI/ML engineering, data engineering, and software engineering**.
 
@@ -68,7 +66,7 @@ next_epoch:    GovSpend AI · ML + RAG over government spending data
 ![Status](https://img.shields.io/badge/status-v2-14B8A6?style=flat-square)
 ![Tests](https://img.shields.io/badge/tests-376-14B8A6?style=flat-square)
 
-*Simulates radio I/Q samples, classifies them as noise, BPSK, or QPSK, and refuses to guess on signals it was never trained on.*
+*Simulates radio I/Q samples and classifies them as noise, BPSK, or QPSK.*
 
 **Highlights**
 
@@ -76,8 +74,7 @@ next_epoch:    GovSpend AI · ML + RAG over government spending data
 - 🧮 **Explainable features + logistic-regression baseline** in a scikit-learn pipeline, evaluated on **1,024-sample windows**
 - 📻 Analyze your **own SDR recordings**, validated against one **real satellite QPSK recording** (SigMF, CC BY 4.0)
 - 🔗 **Typed API contract:** frontend types generated from FastAPI's OpenAPI schema
-- ✅ **376 tests** plus **GitHub Actions CI** (Python 3.10 & 3.12, lint + type-checked Next.js build); Render deploy config
-- 🏗️ Grew from a Streamlit prototype into a **FastAPI + Next.js** app
+- ✅ **GitHub Actions CI** (Python 3.10 & 3.12, lint + type-checked Next.js build) and a Render deploy config
 
 <details>
 <summary><b>🔍 View pipeline</b></summary>
@@ -130,7 +127,7 @@ next_epoch:    GovSpend AI · ML + RAG over government spending data
 - 🧭 **Linked data model:** an expense can belong to a specific stop (the $52 dinner), and a reminder can be pinned to one ("leave 2h before the flight")
 - 🔐 **Multi-user JWT auth** with bcrypt-hashed passwords; every trip is scoped to its owner
 - 🗺️ **Swappable geocoding:** Google Places or free OpenStreetMap/Nominatim behind one interface, with the API key kept server-side
-- 📊 **Budget charts** with Recharts, and maps with Leaflet or Google Maps
+- 📊 **Budget dashboard** with per-trip spending charts
 - ⚡ Axios interceptors (auth headers, 401 handling) + **TanStack Query** caching
 - 🕒 Next up: a scheduled **background worker** for reminders with correct time zones
 
@@ -210,18 +207,6 @@ Compared a **perceptron** and a **three-layer neural network built from scratch*
 | **Testing & Ops** | <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" /> |
 
 </div>
-
----
-
-## 📋 Background
-
-| | |
-|:--:|:--|
-| 🎓 | **M.S. Computer Science** (ML & AI) · Stevens Institute of Technology · Expected Dec 2027 |
-| 🎓 | **B.A. Computer Science** · Rutgers University · 2025 |
-| 🧑‍🏫 | **Student Tutor** · Rutgers CS Help Center |
-| 🎯 | AI/ML · Data Engineering · Software Engineering |
-| 🔨 | Iterating on SpectrumSense v2 & One Trip · next up: GovSpend AI |
 
 ---
 
