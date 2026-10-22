@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=190&section=header&text=Hey,%20I'm%20Eddie&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Applied%20ML%20%C2%B7%20Python%20Tooling&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=190&section=header&text=Hey,%20I'm%20Eddie&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Data%20Engineering%20%C2%B7%20Software%20Engineering&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=14B8A6&center=true&vCenter=true&width=640&lines=MSCS+%40+Stevens+%C2%B7+Machine+Learning+%26+AI;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+scikit-learn+%C2%B7+PyTorch;Taking+models+out+of+the+notebook+and+into+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=14B8A6&center=true&vCenter=true&width=640&lines=AI%2FML+%C2%B7+Data+Engineering+%C2%B7+Software+Engineering;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+GCP+%C2%B7+AWS;Building+ML+systems%2C+data+pipelines+%26+the+software+around+them)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/edward-moon-972007237"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sungjune.moon@gmail.com"><img src="https://img.shields.io/badge/sungjune.moon@gmail.com-0F766E?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -16,13 +16,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Rutgers Computer Science graduate, now a part-time **MSCS student at Stevens Institute of Technology** focusing on **machine learning and AI**.
+I'm a Rutgers Computer Science graduate, now an **MSCS student at Stevens Institute of Technology** focusing on **machine learning and AI**.
 
 I like the part of ML that comes *after* the notebook: wrapping models in **APIs, CLIs, and full-stack apps** that people can actually run. Most of what I build is Python, with React and TypeScript when it needs a face.
 
 I've also spent a lot of time teaching code, as a tutor at Rutgers' CS help center and as a Python instructor. That's made me much better at explaining, and documenting, what I build.
 
-> 🎯 **Looking for:** software engineering internships and roles in **applied ML, backend, and AI tooling**.
+> 🎯 **Looking for:** internships and roles in **AI/ML engineering, data engineering, and software engineering**.
 
 ---
 
@@ -184,13 +184,12 @@ Compared a **perceptron** and a **three-layer neural network built from scratch*
 
 ## 🛠️ Technical Toolkit
 
-<sub>Everything below is used in the projects above.</sub>
-
 <div align="center">
 
 | | |
 |:--:|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,ts,css&theme=dark" height="40" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,ts,css&theme=dark" height="40" /> <br> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> |
+| **Cloud** | <img src="https://skillicons.dev/icons?i=gcp,aws&theme=dark" height="40" /> |
 | **ML & Data** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" height="40" /> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,mysql,sqlite&theme=dark" height="40" /> <br> <img src="https://img.shields.io/badge/SQLModel-7E56C2?style=flat-square" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/Click_CLI-1F2937?style=flat-square" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" height="40" /> <br> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" /> <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" /> |
@@ -208,7 +207,7 @@ Compared a **perceptron** and a **three-layer neural network built from scratch*
 | 🎓 | **M.S. Computer Science** (ML & AI) · Stevens Institute of Technology · Expected Dec 2027 |
 | 🎓 | **B.A. Computer Science** · Rutgers University · 2025 |
 | 🧑‍🏫 | **Student Tutor** · Rutgers CS Help Center |
-| 🎯 | Applied ML · Backend · AI Tooling |
+| 🎯 | AI/ML · Data Engineering · Software Engineering |
 | 🔨 | Iterating on SpectrumSense v2 & One Trip · next up: GovSpend AI |
 
 ---
