@@ -83,16 +83,27 @@ next_epoch:    GovSpend AI · ML + RAG over government spending data
 <summary><b>🔍 View pipeline</b></summary>
 <br>
 
-```mermaid
-flowchart LR
-    A[Simulated or uploaded I/Q] --> B[Feature extraction]
-    B --> C[Logistic regression]
-    C --> D{Confident?}
-    D -->|yes| E[Noise · BPSK · QPSK]
-    D -->|no| F[Uncertain]
-    E --> G[FastAPI]
-    F --> G
-    G --> H[Next.js dashboard]
+```text
+   Simulated or uploaded I/Q
+               │
+               ▼
+      Feature extraction
+               │
+               ▼
+      Logistic regression
+               │
+               ▼
+          Confident?
+        ┌──────┴──────┐
+       yes            no
+        ▼             ▼
+ Noise·BPSK·QPSK  Uncertain
+        └──────┬──────┘
+               ▼
+            FastAPI
+               │
+               ▼
+       Next.js dashboard
 ```
 
 </details>
