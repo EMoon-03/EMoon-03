@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer · Data Engineering · Software Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=14B8A6&center=true&vCenter=true&width=650&lines=Machine+Learning+%C2%B7+LLM+Apps+%C2%B7+Data+Pipelines+%C2%B7+Cloud;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+GCP+%C2%B7+AWS;Turning+models+into+software+people+actually+use" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=14B8A6&center=true&vCenter=true&width=650&lines=Machine+Learning+%C2%B7+LLM+Apps+%C2%B7+Data+Pipelines+%C2%B7+Cloud;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+React+%C2%B7+AWS;Turning+models+into+software+people+actually+use" alt="Typing SVG" />
 
 <br>
 
